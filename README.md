@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Moolah Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Moolah money is a social banking website that allows users to create savings accounts and then see the balances on all their friends' accounts. We thought that peer pressure might do interesting things to the way we bank-- social banking-- if you will. Hopefully, this kind of environment would motivate people to grow their wealth and become more mindful for what they have. We hope Moolah will help people grow their moolah and avoid debt of all kinds.
 
-## Available Scripts
+## How we built it 
+Auth0, React.js, Capital One API
 
-In the project directory, you can run:
+## Accomplishments that we're proud of
+Navigating between Capital One's API as well as that of Auth0 was pretty tricky, but we figured out enough for some basic functionality. We are also very happy with the accompanying financial literacy video featured on the resources section of the website.
 
-### `npm start`
+## What we learned
+This was several of ours' first endeavor into API calls as well as React in general. A lot was learned on both those ends. This was all of ours first Hackathon to compete in, so we learned in that regard as well :)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Pictures of the Website
+###Main Page
+<img width="1440" alt="截屏2022-10-18 下午8 09 10" src="https://user-images.githubusercontent.com/90734286/196568170-6943283e-82b0-4a8a-95d7-7b31881af0af.png">
+###Personal Profile Page
+<img width="1439" alt="截屏2022-10-18 下午8 08 58" src="https://user-images.githubusercontent.com/90734286/196568187-29b38070-71b6-40c0-ac9e-915a102eb4c9.png">
+###Friend Page
+<img width="1440" alt="截屏2022-10-18 下午8 09 38" src="https://user-images.githubusercontent.com/90734286/196568192-d7038226-4c84-4695-81d3-09152223a65f.png">
+###Auth0 Log in 
+<img width="1440" alt="截屏2022-10-18 下午8 09 54" src="https://user-images.githubusercontent.com/90734286/196568194-b8f7e1a9-1170-4539-84f3-4e683744721d.png">
