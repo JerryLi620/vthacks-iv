@@ -13,11 +13,11 @@ Navigating between Capital One's API as well as that of Auth0 was pretty tricky,
 This was several of ours' first endeavor into API calls as well as React in general. A lot was learned on both those ends. This was all of ours first Hackathon to compete in, so we learned in that regard as well :)
 
 ## Pictures of the Website
-### Main Page
+Main Page
 <img width="1440" alt="截屏2022-10-18 下午8 09 10" src="https://user-images.githubusercontent.com/90734286/196568170-6943283e-82b0-4a8a-95d7-7b31881af0af.png">
-### Personal Profile Page
+Personal Profile Page
 <img width="1439" alt="截屏2022-10-18 下午8 08 58" src="https://user-images.githubusercontent.com/90734286/196568187-29b38070-71b6-40c0-ac9e-915a102eb4c9.png">
-### Friend Page
+Friend Page
 <img width="1440" alt="截屏2022-10-18 下午8 09 38" src="https://user-images.githubusercontent.com/90734286/196568192-d7038226-4c84-4695-81d3-09152223a65f.png">
-### Auth0 Log in 
+Auth0 Log in 
 <img width="1440" alt="截屏2022-10-18 下午8 09 54" src="https://user-images.githubusercontent.com/90734286/196568194-b8f7e1a9-1170-4539-84f3-4e683744721d.png">
